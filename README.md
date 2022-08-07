@@ -1,4 +1,4 @@
-### Hi there 👋. 
+### Hi there 👋
 I am Muhammad Aminu Aliyu, a Full Stack Software Engineer from Nigeria.  
 I am a dedicated, goal-oriented developer that enjoys creating solutions to problems.
 ---
